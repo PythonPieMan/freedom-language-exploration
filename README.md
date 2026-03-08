@@ -12,3 +12,5 @@ The primary argument in their book asserts that inclusive political institutions
 <p align="center">
   <img src="images/sapir-whorf-hypothesis.jpg" width="440" alt="Sapir-Whorf Hypothesis of Linguistic Determinism">
 </p>
+
+I was curious about whether countries that achieved democracy, and thereby, were wealthier (more conquest/colonial-enabled) mid-way through the last millennium...
