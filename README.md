@@ -8,3 +8,7 @@ Inspired by Nobel Laureates Daron Acemoglu and James A. Robinson’s Why Nations
 </p>
 
 The primary argument in their book asserts that inclusive political institutions result in inclusive economic institutions and that the two exist in a virtuous cycle, while extractive institutions do the opposite. Using this hypothesis as a jumping-off point, I wanted to explore a different social sciences question blending institutional economics and Linguistic Determinism (the idea that a person's linguistic constraints shape their cognitive processes / perception of reality).
+
+<p align="center">
+  <img src="images/sapir-whorf-hypothesis.jpg" width="220" alt="Sapir-Whorf Hypothesis of Linguistic Determinism">
+</p>
