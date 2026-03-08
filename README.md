@@ -1,2 +1,3 @@
 # freedom-language-exploration
-Inspired by Why Nations Fail, from Nobel Laureates Daron Acemoglu and James A. Robinson, I used their 'inclusive institution -> wealth' virtuous cycle argument as a jumping off point to understand whether current children of former colonial powers enjoy the privilege of more nuanced thought as a result of conquest-accelerated idea cross-pollination resulting in greater linguistic complexity today.
+This mini-project explores the relationship between institutional structures and linguistic evolution. Inspired by Nobel Laureates Daron Acemoglu and James A. Robinson’s Why Nations Fail, I conducted a linear regression analysis to test if inclusive institutions correlate with higher levels of morphological complexity in national primary languages.
+[![Book Cover](https://path-to-image.jpg)](https://www.nobelprize.org/prizes/economic-sciences/2024/summary/)
