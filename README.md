@@ -30,4 +30,14 @@ The idea was fairly straight-forward. I wanted to plot freedom index as the inde
 
 First, I needed to pull a dataset for freedom index. This was done by pulling CL (Civil Liberties) and PR (Political Rights) values from the well-known R TidyTuesday project repository. Gemini proposed the method of averaging the two values (both on a scale of 1 to 7) and inverting them to make for easier interpretation once plotted. 
 
-Second, I needed
+Second, I needed to pull a dataset that included country or country ISO (3-letter code used to identify a country) in one field and language complexity (of what is considered the country's) primary language in another field.
+
+The second step was undoubtedly the trickier of the two because the second dataset likely does not exist. This meant that I needed to enlist the help of Gemini and Claude to work through several intermediate steps that would achieve a data frame like this. Here is the process that was carried out to make this step a success:
+
+1) Gemini created a hard-coded "primary_languages" definition from lines 94 through 185 in the script using "*general knowledge*" after giving the reason that "*finding a single, programmatically accessible external source that reliably provides this specific ISO to primary_language mapping for all countries, and is also perfectly aligned with WALS language names, has been challenging.*"
+
+2) It then created "lang_lookup" dictionary mapping primary language to complexity score for each ISO.
+
+3) Gemini employed a "lang_rows" loop to cycle through ISO:primary language pairs in the primary_languages definition and attach complexity scores from the "lang_lookup" dictionary.
+
+Finally 😮‍💨 it was all summed into the "lang_df" data frame that was merged with the "hfi_df" freedom index data frame with ISO as the common field. Wow! Pretty cool! 😁
