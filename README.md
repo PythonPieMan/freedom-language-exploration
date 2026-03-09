@@ -41,3 +41,11 @@ The second step was undoubtedly the trickier of the two because the second datas
 3) Gemini employed a "lang_rows" loop to cycle through ISO:primary language pairs in the primary_languages definition and attach complexity scores from the "lang_lookup" dictionary.
 
 Finally 😮‍💨 it was all summed into the "lang_df" data frame that was merged with the "hfi_df" freedom index data frame with ISO as the common field. Wow! Pretty cool! 😁
+
+
+<p align="center">
+  <img src="images/vibecoding.gif" width="440" alt="Vibe Coding">
+</p>
+
+Now, it was the moment of truth! I could finally plot freedom index against linguistic complexity and test my hypothesis. It was time to answer whether democracy lead to colonialism/trade and potentially more nuanced thought by extension. Here is the result:
+
