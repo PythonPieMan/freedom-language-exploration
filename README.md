@@ -19,4 +19,6 @@ The main question I wanted to answer was whether countries with more inclusive i
   <img src="images/colonialgoodsexchange.png" width="440" alt="Colonial Goods Exchange">
 </p>
 
-Though I've worked with it before, my day-to-day role currently does not use much Python, so I figured this would be a perfect first foray into vibe-coding. For this project, I used a combination of Gemini 3 and Claude Sonnet 4.6.
+Though I've worked with it before, my day-to-day role currently does not use much Python, so I figured this would be a perfect first foray into vibe-coding. For this project, I used a combination of Gemini 3 and Claude Sonnet 4.6. The idea was fairly straight-forward. I wanted to plot freedom index as the independent variable against primary language complexity as the independent variable to support my hypothesis.
+
+
