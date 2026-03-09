@@ -16,5 +16,7 @@ The primary argument in their book asserts that inclusive political institutions
 The main question I wanted to answer was whether countries with more inclusive institutions early in the last millennium (more colonial-enabled) were rewarded with greater linguistic complexity (maybe a rough proxy for more nuanced thought) today. In other words, would a country's 21st century citizens enjoy the privilege of more nuanced thought thanks to their country's more democratic foundations from 1000 to 2000 AD. This would be mostly due to international expansion forcing colonial powers to evolve more expansive vocabularies as they came into contact with foreign ideas and technologies.
 
 <p align="center">
-  <img src="images/colonialgoodsexchange.jpg" width="440" alt="Colonial Goods Exchange">
+  <img src="images/colonialgoodsexchange.png" width="440" alt="Colonial Goods Exchange">
 </p>
+
+Though I've worked with it before, my day-to-day role currently does not use much Python, so I figured this would be a perfect first foray into vibe-coding. For this project, I used a combination of Gemini 3 and Claude Sonnet 4.6.
