@@ -13,4 +13,4 @@ The primary argument in their book asserts that inclusive political institutions
   <img src="images/sapir-whorf-hypothesis.jpg" width="440" alt="Sapir-Whorf Hypothesis of Linguistic Determinism">
 </p>
 
-I was curious about whether countries that achieved democracy, and thereby, were wealthier (more conquest/colonial-enabled) mid-way through the last millennium...
+The main question I wanted to answer was whether countries with more inclusive institutions early in the last millennium (more colonial-enabled) were rewarded with greater linguistic complexity (maybe a rough proxy for more nuanced thought) today. In other words, would a country's 21st century citizens enjoy the privilege of more nuanced thought thanks to more democratic foundations from 1000 to 2000 AD - mostly due to international expansion forcing colonial powers to evolve more expansive vocabularies as they came into contact with foreign ideas and technologies.
