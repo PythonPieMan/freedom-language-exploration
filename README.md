@@ -23,4 +23,11 @@ Though I've worked with it before, my day-to-day role currently does not use muc
 
 The idea was fairly straight-forward. I wanted to plot freedom index as the independent variable against primary language complexity as the independent variable to support my hypothesis.
 
+<p align="center">
+  <img src="images/gemini3.jpg" width="440" alt="Gemini 3">
+  <img src="images/claudesonnet4_6.png" width="440" alt="Claude Sonnet 4.6">
+</p>
 
+First, I needed to pull a dataset for freedom index. This was done by pulling CL (Civil Liberties) and PR (Political Rights) values from the well-known R TidyTuesday project repository. Gemini proposed the method of averaging the two values (both on a scale of 1 to 7) and inverting them to make for easier interpretation once plotted. 
+
+Second, I needed
